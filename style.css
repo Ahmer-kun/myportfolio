@@ -164,7 +164,7 @@ span {
     box-shadow: none;
 }
 /* this is for second button*/
-.btn2 {
+.btn {
     display: inline-block;
     padding: 1rem 2.8rem;
     background: var(--main-color);
@@ -176,7 +176,7 @@ span {
     transition: .5s ease;
 }
 
-.btn2:hover {
+.btn:hover {
     box-shadow: none;
 }
 
