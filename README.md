@@ -11,7 +11,7 @@
 <li>A passionate Undergraduate</li>
 <li>Playing CTF’s at spare time</li>
 <li>Currently learning Web Development & Cybersecurity by Self</li>
-<li>Personal website <a href="https://www.0xabdulkhalid.ml">link</a></li>
+<li>Personal website <a href="https://ahmer-kun.github.io/myportfolio/">link</a></li>
 <li>I’m currently open for an Intern or a new job opportunity, this is <a href="https://read.cv/0xabdulkhalid">my resume</a></li>
 </ul>
 <p><br><br></p>
