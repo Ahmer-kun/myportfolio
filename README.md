@@ -19,10 +19,6 @@
 <h2 id="-skills"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&amp;rid=giphy.gif" width="25"><b> Skills</b></h2>
 
 
-<h2 id="-skills"><img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXlrcHlnNWg2MjQ1MDVuMWVlM3Q0ZHZpNTZjd3NuYWx4cHExaGNpYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FtLZ05FBnC48uYGzuO/giphy.gif
-" width="25"><b> Skills</b></h2>
-
-
 <br>
 <p align="center">
 </p><ul>
