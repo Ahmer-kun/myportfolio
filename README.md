@@ -6,4 +6,4 @@ Update it accordingly to your tastes further pages will be added as separte sect
 and backend service will also further be finalized at a later date
 
 Incase of any errors please do tell, happy coding ~
-LINK: https://ahmer-kun.github.io/myportfolio/portfolio.html
+LINK: https://ahmer-kun.github.io/myportfolio/
