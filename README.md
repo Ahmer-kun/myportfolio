@@ -72,7 +72,7 @@
 <h2 id="-github-stats"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b></h2>
 <br>
 <div align="center">
-<a href="https://github.com/0xabdulkhalid/">
+<a href="https://github.com/Ahmer-kun/">
   <img src="https://github-readme-stats.vercel.app/api?username=Ahmer-kun&amp;include_all_commits=true&amp;count_private=true&amp;show_icons=true&amp;line_height=20&amp;title_color=7A7ADB&amp;icon_color=2234AE&amp;text_color=D3D3D3&amp;bg_color=0,000000,130F40" width="450">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ahmer-kun&amp;show_icons=true&amp;locale=en&amp;layout=compact&amp;line_height=20&amp;title_color=7A7ADB&amp;icon_color=2234AE&amp;text_color=D3D3D3&amp;bg_color=0,000000,130F40" width="375" alt="Ahmer-kun">
 </a>
@@ -120,5 +120,5 @@
 <br>
 <hr>
 <br>
-<p>Credit: <a href="https://github.com/0xabdulkhalid">Abdul Khalid</a></p>
+<p>Credit: <a href="https://github.com/Ahmer-kun">Muhammad Ahmer</a></p>
 <p>Last Edited on: 09/11/2022</p> 
