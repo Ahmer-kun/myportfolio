@@ -1,4 +1,4 @@
-  <h1 align="center"><b>Hi , I'm Muhammad Ahmer </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hi , I'm Muhammad Ahmer </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->A
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&amp;color=cyan&amp;size=25&amp;center=true&amp;vCenter=true&amp;width=600&amp;height=100&amp;lines=Assalamu+O+Alaikum+Warahmatullah..♥++;Undergraduate,;Computer+Science+Student,;IT+Support+Specialist,;Cybersecurity+Analyst/Enthusiast,;Love+to+learn+new+stuffs..&lt;3"></a>
@@ -88,7 +88,7 @@
 <div align="left">
 <ul>
 <li>
-<a href="https://linkedin.com/in/Ahmer-kun" target="_blank">
+<a href="https://www.linkedin.com/in/muhammad-ahmer-b88485283/" target="_blank">
 <img src="https://img.shields.io/badge/linkedin:  Ahmer-kun%2300acee.svg?color=405DE6&amp;style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="linkedin" style="margin-bottom: 5px;">
 </a>
 </li>
