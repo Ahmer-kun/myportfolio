@@ -4,8 +4,8 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&amp;color=cyan&amp;size=25&amp;center=true&amp;vCenter=true&amp;width=600&amp;height=100&amp;lines=Assalamu+O+Alaikum+Warahmatullah..♥++;Undergraduate,;Computer+Science+Student,;IT+Support+Specialist,;Cybersecurity+Analyst/Enthusiast,;Love+to+learn+new+stuffs..&lt;3"></a>
 </p>
 <br>
-<h2 id="-about-me"><picture><img src="https://github.com/Ahmer-kun/myportfolio/raw/main/assets/mdImages/about_me.gif" width="50px"></picture> <strong>About me</strong></h2>
-<p><picture> <img align="right" src="https://github.com/Ahmer-kun/myportfolio/raw/main/assets/mdImages/Right_Side.gif" width="250px"></picture></p>
+<h2 id="-about-me"><picture><img src="https://github.com/Ahmer-kun/0xabdulkhalid/raw/main/assets/mdImages/about_me.gif" width="50px"></picture> <strong>About me</strong></h2>
+<p><picture> <img align="right" src="https://github.com/Ahmer-kun/0xabdulkhalid/raw/main/assets/mdImages/Right_Side.gif" width="250px"></picture></p>
 <br>
 <ul>
 <li>A passionate Undergraduate</li>
